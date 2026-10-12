@@ -75,7 +75,6 @@ Teste inicial com **50 a 100 MEIs de um mesmo segmento durante 90 dias**, avalia
 - **LGPD:** a plataforma deve obter as autorizações necessárias para o tratamento e o compartilhamento de dados.
 - **Regulação:** é preciso avaliar as exigências relacionadas às integrações financeiras e às atividades de crédito.
 
-```
 
 ## 👥 Equipe NIDES
 
