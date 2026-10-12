@@ -4,7 +4,7 @@
 
 # NIDES · Fintech para MEIs
 
-> Plataforma digital que ajuda microempreendedores individuais (MEIs) e pequenos negócios a organizar suas finanças, acompanhar o fluxo de caixa e construir um histórico financeiro estruturado para facilitar o acesso ao crédito.
+> Plataforma digital que ajudar microempreendedores individuais (MEIs) e pequenos negócios a organizar suas finanças, acompanhar o fluxo de caixa e construir um histórico financeiro estruturado para facilitar o acesso ao crédito.
 
 ---
 
@@ -75,14 +75,13 @@ Teste inicial com **50 a 100 MEIs de um mesmo segmento durante 90 dias**, avalia
 - **LGPD:** a plataforma deve obter as autorizações necessárias para o tratamento e o compartilhamento de dados.
 - **Regulação:** é preciso avaliar as exigências relacionadas às integrações financeiras e às atividades de crédito.
 
-```
 
 ## 👥 Equipe NIDES
 
 | Nome | Função | GitHub |
 |------|--------|--------|
 | Alan de Jesus Silva | Founder | [@alandejesussilvabr-oss](https://github.com/alandejesussilvabr-oss) |
-| José Luann de Lira Fidelis | Co-founder | [@luannlira](https://github.com/usuario) |
+| José Luann de Lira Fidelis | Co-founder | [@luannlira](https://github.com/luannlira) |
 | Kauã Ferreira| Co-founder | [KauaFerreira-dev-eng](https://github.com/KauaFerreira-dev-eng) |
 
 Ampliar a organização financeira e as oportunidades de acesso ao crédito para pequenos empreendedores, usando tecnologia para aproximar negócios, instituições financeiras e programas de desenvolvimento econômico.
