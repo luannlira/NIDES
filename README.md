@@ -4,7 +4,7 @@
 
 # NIDES · Fintech para MEIs
 
-> Plataforma digital que ajuda microempreendedores individuais (MEIs) e pequenos negócios a organizar suas finanças, acompanhar o fluxo de caixa e construir um histórico financeiro estruturado para facilitar o acesso ao crédito.
+> Plataforma digital que ajudar microempreendedores individuais (MEIs) e pequenos negócios a organizar suas finanças, acompanhar o fluxo de caixa e construir um histórico financeiro estruturado para facilitar o acesso ao crédito.
 
 ---
 
