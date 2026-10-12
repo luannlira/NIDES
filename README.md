@@ -81,7 +81,7 @@ Teste inicial com **50 a 100 MEIs de um mesmo segmento durante 90 dias**, avalia
 | Nome | Função | GitHub |
 |------|--------|--------|
 | Alan de Jesus Silva | Founder | [@alandejesussilvabr-oss](https://github.com/alandejesussilvabr-oss) |
-| José Luann de Lira Fidelis | Co-founder | [@luannlira](https://github.com/usuario) |
+| José Luann de Lira Fidelis | Co-founder | [@luannlira](https://github.com/luannlira) |
 | Kauã Ferreira| Co-founder | [KauaFerreira-dev-eng](https://github.com/KauaFerreira-dev-eng) |
 
 Ampliar a organização financeira e as oportunidades de acesso ao crédito para pequenos empreendedores, usando tecnologia para aproximar negócios, instituições financeiras e programas de desenvolvimento econômico.
